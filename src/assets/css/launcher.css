@@ -3,7 +3,7 @@
 @import "panels/home.css";
 @import "panels/settings.css";
 
-* {
+* { /* no toques esto L */
     outline: none;
 }
 
